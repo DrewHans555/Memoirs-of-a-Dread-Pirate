@@ -7,7 +7,7 @@ During the Spring 2017 semester at Blackburn College, myself and five other stud
 * Java 8 or higher
 
 ## License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
 
 ## Contributers
 * [Lucas Burdell](https://github.com/lucas-burdell) - Backend (ACE System & SQL Database), Story
